@@ -5,3 +5,4 @@ This repository is for AI course materials in University of Tehran ACM branch Su
 ## Course syllabus
 
 * Introduction to `Python`, `Notebook` and `Virtual Environment`
+* Preprocess, linear regression, and logistic regression
